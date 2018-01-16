@@ -1,0 +1,6 @@
+{
+  "name": "arc-demo-get-index",
+  "dependencies": {
+    "@architect/functions": "^1.6.3"
+  }
+}
