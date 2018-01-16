@@ -17,7 +17,7 @@ module.exports = function layout(req, body) {
       </head>
       <body>
         <div class="container">
-          <h2><a href='/'>arc-demo</a></h2>
+          <h2><a href=${req._url(`/`)}>arc-demo</a></h2>
           <div><ul>${ nav.map(item).join(' ') }</ul></div>
           <div>${ body }</div>
         </div>
