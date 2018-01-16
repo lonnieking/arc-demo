@@ -1,0 +1,6 @@
+{
+  "name": "arc-demo-get-api",
+  "dependencies": {
+    "@architect/functions": "^1.6.3"
+  }
+}

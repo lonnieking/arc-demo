@@ -1,0 +1,6 @@
+{
+  "name": "arc-demo-post-count",
+  "dependencies": {
+    "@architect/functions": "^1.6.3"
+  }
+}
