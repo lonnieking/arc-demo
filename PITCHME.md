@@ -5,7 +5,7 @@
 ### Architect
 ![brian](https://avatars1.githubusercontent.com/u/990?s=200&v=4)
 - Created in mid-2017 by Brian LeRoux (co-founder/CTO of Begin and co-creator of PhoneGap)
-- [arc.codes](arc.codes) | [arc-repos on github](https://github.com/arc-repos/)
+- [arc.codes](https://arc.codes) | [arc-repos on github](https://github.com/arc-repos/)
 - JSF maintains ownership to ensure ongoing open source and open governance
 
 ---
